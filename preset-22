@@ -1,3 +1,3 @@
 android.app.extra.PROVISIONING_DEVICE_ADMIN_PACKAGE_NAME=com.google.android.testdpc
-android.app.extra.PROVISIONING_DEVICE_ADMIN_PACKAGE_DOWNLOAD_LOCATION=https://github.com/lge-afw-dev/testdpc/blob/testdpc/TestDPC-L.apk
+android.app.extra.PROVISIONING_DEVICE_ADMIN_PACKAGE_DOWNLOAD_LOCATION=https://github.com/lge-afw-dev/testdpc/raw/testdpc/TestDPC-L.apk
 android.app.extra.PROVISIONING_DEVICE_ADMIN_PACKAGE_CHECKSUM=Mgdo0G4yMISpT99vJZMEje7cqR0=

@@ -1,3 +1,3 @@
-ndroid.app.extra.PROVISIONING_DEVICE_ADMIN_COMPONENT_NAME=com.afwsamples.testdpc/.DeviceAdminReceiver
+android.app.extra.PROVISIONING_DEVICE_ADMIN_COMPONENT_NAME=com.afwsamples.testdpc/.DeviceAdminReceiver
 android.app.extra.PROVISIONING_DEVICE_ADMIN_PACKAGE_DOWNLOAD_LOCATION=https://testdpc-latest-apk.appspot.com
 android.app.extra.PROVISIONING_DEVICE_ADMIN_SIGNATURE_CHECKSUM=gJD2YwtOiWJHkSMkkIfLRlj-quNqG1fb6v100QmzM9w=
